@@ -37,7 +37,7 @@
 
 附带产物：[一个通用的微信多开工具](https://github.com/huiyadanli/RevokeMsgPatcher/tree/master/RevokeMsgPatcher.MultiInstance)
 
-## 📷截图
+## 📷截图.
 ![Screenshot](https://raw.githubusercontent.com/huiyadanli/RevokeMsgPatcher/master/Images/screenshot.png)
 
 ## 🔨使用方法
